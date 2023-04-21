@@ -1,0 +1,15 @@
+
+.navbar {
+    background-color: #006400;
+    font-weight: bold;
+    font-size: 18px;
+}
+.nav-link {
+    color: white !important;
+}
+
+body {
+    background-color: #F5F5F5;
+    font-family: Arial, sans-serif;
+}
+

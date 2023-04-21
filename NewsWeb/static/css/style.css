@@ -1,0 +1,53 @@
+.container {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 15px 0;
+    font-size: 14px;
+    color: #777;
+}
+
+.navbar {
+    background-color: #5cb85c;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .nav-link:hover {
+    color: #fff;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th:first-child, td:first-child {
+    width: 80%;
+}
+
+th:last-child, td:last-child {
+    width: 15%;
+}
+
+td {
+    height: 50px;
+}
+
+
+a {
+    /* 设置颜色 */
+    color: black;
+    text-decoration: none;
+}
